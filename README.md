@@ -1,3 +1,3 @@
 Olá
 
-![Snake animation](https://github.com/filipe-pedroso/filipe-pedroso/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/juniormalk/juniormalk/blob/output/github-contribution-grid-snake.svg)
